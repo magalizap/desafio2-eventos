@@ -1,0 +1,48 @@
+*{
+    background-color: aquamarine;
+}
+
+
+.h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 2em;
+}
+
+.input1{
+    background-color: white;
+    border-radius: 7px;
+    margin-left: 36%;
+
+    width: 400px;
+    height: 40px;
+    
+}
+
+.boton1{
+    background-color: coral;
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    width: 18rem;
+    height: 5rem;
+    border-radius: 7px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 40%;
+}
+
+.card-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+
